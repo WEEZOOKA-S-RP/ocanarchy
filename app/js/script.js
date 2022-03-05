@@ -1,2 +1,1 @@
-console.log("TemplateServer");
-console.log("Website by: github.com/OLIMINATOR");
+console.log("Orewa College Anarchy");
